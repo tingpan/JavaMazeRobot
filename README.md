@@ -7,7 +7,7 @@
 * Four robots in `src/cmd/robot`. Lefthand, Righthand, Random and Random Memory.
 #### GUI Version
 * src in src/ui package
-* ![screenshot]("/screen.png")
+![screenshot](https://raw.githubusercontent.com/tingpan/JavaMazeRobot/master/screen.png)
 #### Commend Line Version
 * src in src/cmd package
 * 
